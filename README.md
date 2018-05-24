@@ -9,7 +9,7 @@ Test Balancer(turns on and off the balancers and makes sure they work),
 Test Breme(checks the current levels for abnormalities),
 
 Services: 
-Charge ON/OFF,
+Charging ON/OFF,
 Test Battery,
 EEPROM Reset,
 UPS test mode ON/OFF
