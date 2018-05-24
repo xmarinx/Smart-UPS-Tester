@@ -1,0 +1,9 @@
+c:\users\xxx\documents\visual studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\bin\Debug\LCR Smart UPS Test.exe.config
+c:\users\xxx\documents\visual studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\bin\Debug\LCR Smart UPS Test.exe
+c:\users\xxx\documents\visual studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\bin\Debug\LCR Smart UPS Test.pdb
+c:\users\xxx\documents\visual studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\obj\Debug\LCR_Smart_UPS_Test.Form1.resources
+c:\users\xxx\documents\visual studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\obj\Debug\LCR_Smart_UPS_Test.Properties.Resources.resources
+c:\users\xxx\documents\visual studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\obj\Debug\LCR Smart UPS Test.csproj.GenerateResource.Cache
+c:\users\xxx\documents\visual studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\obj\Debug\LCR Smart UPS Test.exe
+c:\users\xxx\documents\visual studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\obj\Debug\LCR Smart UPS Test.pdb
+C:\Users\xxx\Documents\Visual Studio 2013\Projects\LCR Smart UPS Test\LCR Smart UPS Test\obj\Debug\LCR Smart UPS Test.csprojResolveAssemblyReference.cache
